@@ -1,0 +1,17 @@
+
+#In Ubuntu 22.04 and other versions debian linux is pre-installed Python 3.
+
+You can make sure with check version Pyhton 3.
+=================
+python3 -V
+=================
+
+If already exist, you can continue install software for manage python.
+=================
+sudo apt install python3-pip
+=================
+
+For install package python, you can use command:
+=================
+pip3 install <name_package>
+=================
